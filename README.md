@@ -17,7 +17,7 @@
 
 | Name | GitHub username |
 |------|----------------|
-|      |                |
+|Cynthia|cynthiahqy|
 |      |                |
 |      |                |
 
