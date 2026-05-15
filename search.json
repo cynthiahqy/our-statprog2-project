@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "proposal.html#research-questions",
+    "href": "proposal.html#research-questions",
+    "title": "Project Proposal",
+    "section": "Research Questions",
+    "text": "Research Questions"
+  },
+  {
+    "objectID": "proposal.html#initial-eda",
+    "href": "proposal.html#initial-eda",
+    "title": "Project Proposal",
+    "section": "Initial EDA",
+    "text": "Initial EDA\n\n\nCode\nlibrary(tidyverse)\nlibrary(here)\n\n# data &lt;- read_csv(here(\"data\", \"raw\", \"data.csv\"))"
+  },
+  {
+    "objectID": "proposal.html#analysis-plan",
+    "href": "proposal.html#analysis-plan",
+    "title": "Project Proposal",
+    "section": "Analysis Plan",
+    "text": "Analysis Plan"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Project Title",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "index.html#results",
+    "href": "index.html#results",
+    "title": "Project Title",
+    "section": "Results",
+    "text": "Results"
+  },
+  {
+    "objectID": "index.html#discussion",
+    "href": "index.html#discussion",
+    "title": "Project Title",
+    "section": "Discussion",
+    "text": "Discussion"
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributions",
+    "section": "",
+    "text": "[Name] — [files/sections responsible for] - [Key task 1] - [Key task 2] - [Collaborative tasks]\n[Name] — [files/sections responsible for] - [Key task 1] - [Key task 2] - [Collaborative tasks]\n[Name] — [files/sections responsible for] - [Key task 1] - [Key task 2] - [Collaborative tasks]\n\n\n\n\nWe used the following AI tools in this project:\n\n\n\nTool\nPurpose\nScope\n\n\n\n\n\n\n\n\n\n\nAll AI-generated code and text was reviewed and verified by a group member before inclusion."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#group-members",
+    "href": "CONTRIBUTING.html#group-members",
+    "title": "Contributions",
+    "section": "",
+    "text": "[Name] — [files/sections responsible for] - [Key task 1] - [Key task 2] - [Collaborative tasks]\n[Name] — [files/sections responsible for] - [Key task 1] - [Key task 2] - [Collaborative tasks]\n[Name] — [files/sections responsible for] - [Key task 1] - [Key task 2] - [Collaborative tasks]"
+  },
+  {
+    "objectID": "CONTRIBUTING.html#ai-tool-disclosure",
+    "href": "CONTRIBUTING.html#ai-tool-disclosure",
+    "title": "Contributions",
+    "section": "",
+    "text": "We used the following AI tools in this project:\n\n\n\nTool\nPurpose\nScope\n\n\n\n\n\n\n\n\n\n\nAll AI-generated code and text was reviewed and verified by a group member before inclusion."
+  }
+]
