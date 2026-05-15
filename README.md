@@ -1,4 +1,4 @@
-# A different cool data story
+# Cool Data Story
 
 > Replace this with a short description of your project and dataset.
 
