@@ -1,0 +1,6 @@
+---
+title: "Exploratory Plots"
+format: html
+---
+
+Our data is about penguins, here are some descriptive plots that show ...
